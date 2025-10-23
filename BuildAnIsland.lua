@@ -1,5 +1,5 @@
 local TARGET_PLACE_ID = 101949297449238
-local SCRIPT_URL      = "https://raw.githubusercontent.com/ayypwm/Aurorax1/main/AuroraXBeta.lua"
+local SCRIPT_URL      = "https://raw.githubusercontent.com/ayypwm/Mmmmmkcghii/main/beta.lua"
 
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
